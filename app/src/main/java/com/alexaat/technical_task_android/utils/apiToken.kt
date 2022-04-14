@@ -1,0 +1,3 @@
+package com.alexaat.technical_task_android.utils
+
+const val token = "75ec00b44ae928f6849a1a3175032eab307a8acce23f3752fe7becbfcd3725e9"
