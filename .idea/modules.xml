@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/technical_task_android.iml" filepath="$PROJECT_DIR$/.idea/technical_task_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/technical_task_android.iml" filepath="$PROJECT_DIR$/.idea/modules/technical_task_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/technical_task_android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/technical_task_android.app.iml" />
     </modules>
   </component>
 </project>
