@@ -42,6 +42,6 @@ You shouldn't spend more than 1 day on implementation, but if you need more time
 - Code should be production ready
 
 ### Deliverables
-- The forked version of this repo
+- The forked version of this repo.
 
 
